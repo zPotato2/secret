@@ -4,7 +4,7 @@ from datetime import datetime
 from grid_utils import parse_grid, hash_grid, find_repeat
 from prng_simulator import try_bruteforce_seed
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = ""
 CHANNEL_ID = 1416766733527810058
 TARGET_BOT_ID = 1405696733232758968
 LOG_FILE = "mines_logs.json"
